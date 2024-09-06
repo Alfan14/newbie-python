@@ -1,0 +1,3 @@
+[submodule "newbie-python"]
+	path = newbie-python
+	url = https://github.com/Alfan14/newbie-python.git
